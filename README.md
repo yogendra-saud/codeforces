@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 2 |
+| 4 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (2)
+- [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
@@ -23,6 +24,12 @@
 |---|---------|------------|----------|
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 | 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
 
 ### strings
 
