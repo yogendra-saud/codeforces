@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 7 |
+| 7 | 8 |
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
@@ -34,6 +35,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1869A | [Make It Zero](https://codeforces.com/contest/1869/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1869/A%20-%20Make%20It%20Zero/solution.cpp) |
 
 ### greedy
 
