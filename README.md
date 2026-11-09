@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 10 |
+| 12 | 11 |
 
 ---
 
@@ -16,8 +16,9 @@
 - [brute force](#brute-force) (2)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
@@ -53,6 +54,12 @@
 |---|---------|------------|----------|
 | 1869A | [Make It Zero](https://codeforces.com/contest/1869/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1869/A%20-%20Make%20It%20Zero/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -66,6 +73,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
+| 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 
 ### math
 
