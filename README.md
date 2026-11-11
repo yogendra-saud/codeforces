@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 11 |
+| 13 | 11 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [Uncategorized](#uncategorized) (4)
 - [brute force](#brute-force) (2)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (2)
-- [math](#math) (2)
+- [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
@@ -52,6 +52,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1869A | [Make It Zero](https://codeforces.com/contest/1869/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1869/A%20-%20Make%20It%20Zero/solution.cpp) |
 
 ### data structures
@@ -64,6 +65,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1837B | [Comparison String](https://codeforces.com/contest/1837/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1837/B%20-%20Comparison%20String/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
@@ -79,6 +81,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yogendra-saud/codeforces/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
 
